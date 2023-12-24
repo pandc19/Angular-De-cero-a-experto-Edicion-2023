@@ -1,6 +1,6 @@
 [submodule "01-typescript-intro"]
 	path = 01-typescript-intro
 	url = https://github.com/pandc19/ng-01-typescript-intro.git
-[submodule "02-angular-bases"]
+[submodule "02-bases"]
 	path = 02-angular-bases
 	url = https://github.com/pandc19/angular-bases.git

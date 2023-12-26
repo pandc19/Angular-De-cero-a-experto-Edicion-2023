@@ -7,3 +7,6 @@
 [submodule "03-gifs-app"]
 	path = 03-gifs-app
 	url = https://github.com/pandc19/angular-gifs-app.git
+[submodule "04-contryApp"]
+	path = 04-contryApp
+	url = https://github.com/pandc19/angular-contryApp.git

@@ -13,3 +13,6 @@
 [submodule "05-pipesApp"]
 	path = 05-pipesApp
 	url = https://github.com/pandc19/ng-pipesApp.git
+[submodule "06-heroesApp"]
+	path = 06-heroesApp
+	url = https://github.com/pandc19/ng-heroesApp.git

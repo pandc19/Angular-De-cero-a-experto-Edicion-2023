@@ -16,3 +16,6 @@
 [submodule "06-heroesApp"]
 	path = 06-heroesApp
 	url = https://github.com/pandc19/ng-heroesApp.git
+[submodule "07-formsApp"]
+	path = 07-formsApp
+	url = https://github.com/pandc19/ng-formsApp.git

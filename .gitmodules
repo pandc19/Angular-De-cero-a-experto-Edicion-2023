@@ -22,3 +22,6 @@
 [submodule "08-selectores"]
 	path = 08-selectores
 	url = https://github.com/pandc19/ng-selectores.git
+[submodule "09-lifecycle"]
+	path = 09-lifecycle
+	url = https://github.com/pandc19/ng-lifecycle.git

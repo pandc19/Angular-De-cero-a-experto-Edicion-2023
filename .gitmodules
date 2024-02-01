@@ -25,3 +25,6 @@
 [submodule "09-lifecycle"]
 	path = 09-lifecycle
 	url = https://github.com/pandc19/ng-lifecycle.git
+[submodule "10-mapsApp"]
+	path = 10-mapsApp
+	url = https://github.com/pandc19/ng-mapsApp.git

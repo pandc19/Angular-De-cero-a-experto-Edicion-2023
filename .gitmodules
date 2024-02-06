@@ -28,3 +28,6 @@
 [submodule "10-mapsApp"]
 	path = 10-mapsApp
 	url = https://github.com/pandc19/ng-mapsApp.git
+[submodule "11-directiveSignals"]
+	path = 11-directiveSignals
+	url = https://github.com/pandc19/ng-directiveSignals.git

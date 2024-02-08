@@ -31,3 +31,6 @@
 [submodule "11-directiveSignals"]
 	path = 11-directiveSignals
 	url = https://github.com/pandc19/ng-directiveSignals.git
+[submodule "12-nest-backend"]
+	path = 12-nest-backend
+	url = https://github.com/pandc19/ng-nest-backend.git

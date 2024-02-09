@@ -34,3 +34,6 @@
 [submodule "12-nest-backend"]
 	path = 12-nest-backend
 	url = https://github.com/pandc19/ng-nest-backend.git
+[submodule "13-authApp"]
+	path = 13-authApp
+	url = https://github.com/pandc19/ng-authApp.git

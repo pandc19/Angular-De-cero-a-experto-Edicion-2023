@@ -37,3 +37,6 @@
 [submodule "13-authApp"]
 	path = 13-authApp
 	url = https://github.com/pandc19/ng-authApp.git
+[submodule "my-dashboard"]
+	path = my-dashboard
+	url = https://github.com/pandc19/ng-my-dashboard.git

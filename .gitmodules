@@ -40,3 +40,6 @@
 [submodule "my-dashboard"]
 	path = my-dashboard
 	url = https://github.com/pandc19/ng-my-dashboard.git
+[submodule "mapas-app"]
+	path = mapas-app
+	url = https://github.com/pandc19/ng-mapas-app.git
